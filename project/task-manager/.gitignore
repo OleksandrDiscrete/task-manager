@@ -1,0 +1,8 @@
+#file types
+
+*env
+
+#folders
+
+dist/
+node_modules/
